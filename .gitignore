@@ -1,0 +1,89 @@
+######################################################################
+# Build outputs
+
+.gradle/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.flattened-pom.xml
+node_modules/
+dist/
+dist-*/
+coverage/
+.cache/
+.history/
+
+######################################################################
+# IDE and workspace
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### NetBeans ###
+nbproject/private/
+build/*
+nbbuild/
+nbdist/
+.nb-gradle/
+
+### AI / local workspace ###
+.claude/
+.kiro/
+.image/
+
+######################################################################
+# Local runtime config
+
+application-my.yaml
+application-local.yaml
+application-*.local.yaml
+*.local.yml
+*.local.yaml
+
+yudao-server/src/main/resources/application-local.yaml
+yudao-ui/.env
+yudao-ui/.env.local
+yudao-ui/.env.*.local
+yudao-ui/public/cesium/
+
+######################################################################
+# Logs and temporary files
+
+*.log
+*.out
+*.pid
+*.xml.versionsBackup
+*.swp
+*.tmp
+Thumbs.db
+**/.DS_Store
+/nul
+
+!*/build/*.java
+!*/build/*.html
+!*/build/*.xml
+
+### JRebel ###
+rebel.xml
+
+######################################################################
+# Project-specific generated files
+
+/yudao-ui-app/unpackage/
