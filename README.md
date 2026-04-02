@@ -96,7 +96,14 @@ pnpm dev
 - 上游文档：<https://doc.iocoder.cn/>
 
 
-- 项目截图
-![无人机首页](docs/images/1.png)
-![无人机大屏](docs/images/2.png) ![无人机大屏](docs/images/3.png) ![无人机大屏](docs/images/4.png) ![无人机大屏](docs/images/5.png)
+## 项目截图
 
+![无人机首页](./docs/images/1.png)
+
+![无人机大屏 1](./docs/images/2.png)
+
+![无人机大屏 2](./docs/images/3.png)
+
+![无人机大屏 3](./docs/images/4.png)
+
+![无人机大屏 4](./docs/images/5.png)
