@@ -47,6 +47,7 @@ nbdist/
 .claude/
 .kiro/
 .image/
+CLAUDE.md
 
 ######################################################################
 # Local runtime config
