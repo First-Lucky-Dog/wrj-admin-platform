@@ -1,0 +1,24 @@
+- main [ref=f5e2]:
+  - generic [ref=f5e3]: 无人机综合管理平台 · 项目验收测试记录摘录
+  - generic [ref=f5e4]:
+    - heading "T-05 历史数据记录" [level=1] [ref=f5e5]
+    - generic [ref=f5e6]: 通过
+  - generic [ref=f5e7]: 技术参数要求：至少保存一个月
+  - generic [ref=f5e8]:
+    - generic [ref=f5e9]:
+      - generic [ref=f5e10]: 可查询范围
+      - strong [ref=f5e11]: 45 天
+    - generic [ref=f5e12]:
+      - generic [ref=f5e13]: 抽查记录
+      - strong [ref=f5e14]: 100 条
+    - generic [ref=f5e15]:
+      - generic [ref=f5e16]: 追溯结果
+      - strong [ref=f5e17]: 完整
+  - generic [ref=f5e18]: 测试方法：按设备、任务和时间范围核验 2026-06-01 至 2026-07-15 数据，并抽查页面与数据库记录。
+  - generic [ref=f5e20]:
+    - generic [ref=f5e21]: 2026-06-01
+    - generic [ref=f5e22]: 30 天要求
+    - generic [ref=f5e23]: 45 天实测
+  - generic [ref=f5e24]:
+    - generic [ref=f5e25]: 测试日期：2026 年 7 月 15 日
+    - generic [ref=f5e26]: 证据编号：DATA-T05-20260715
